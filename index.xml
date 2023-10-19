@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just a blog™ https://kachim2.github.io/wosp</title>
+    <link>/</link>
+    <description>Recent content on Just a blog™ https://kachim2.github.io/wosp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2023 18:57:09 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great Orchestra of Christmas Charity</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Oct 2023 18:57:09 +0200</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>The Great Orchestra of Christmas Charity is a very well known charity in Poland. It helps hospitals and patients by funding medical equipment. However they don&amp;rsquo;t do it like most other charities by asking for money on every ocasion. They make helping sick people accually fun. Once a year, they organize what they call a &amp;ldquo;GRAND FINALE&amp;rdquo;. During it they organise Concerts and other event&amp;rsquo;s. They make soup and flatbread for everyone that donates.</description>
+    </item>
+    
+  </channel>
+</rss>
