@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://kachim2.github.io/wosp/</loc>
     <lastmod>2023-10-19T18:57:09+02:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://kachim2.github.io/wosp/posts/</loc>
     <lastmod>2023-10-19T18:57:09+02:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://kachim2.github.io/wosp/posts/my-first-post/</loc>
     <lastmod>2023-10-19T18:57:09+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://kachim2.github.io/wosp/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kachim2.github.io/wosp/tags/</loc>
   </url>
 </urlset>
